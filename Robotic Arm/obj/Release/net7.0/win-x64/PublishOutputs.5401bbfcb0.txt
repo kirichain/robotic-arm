@@ -1,0 +1,2 @@
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\publish\win-x64\Robotic Arm.pdb
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\publish\win-x64\Robotic Arm.exe

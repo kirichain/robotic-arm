@@ -1,0 +1,15 @@
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\Robotic Arm.exe
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\Robotic Arm.deps.json
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\Robotic Arm.runtimeconfig.json
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\Robotic Arm.dll
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\bin\Release\net7.0\Robotic Arm.pdb
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.csproj.AssemblyReference.cache
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.AssemblyInfoInputs.cache
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.AssemblyInfo.cs
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.csproj.CoreCompileInputs.cache
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.dll
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\refint\Robotic Arm.dll
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.pdb
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\Robotic Arm.genruntimeconfig.cache
+C:\Dropbox\Freedom\robotic-arm\Robotic Arm\obj\Release\net7.0\ref\Robotic Arm.dll
